@@ -68,14 +68,5 @@ public class Main {
             default:
                 System.out.println("Нет такого месяца");
         }
-
-
-
-
-
-
-
-
-
     }
 }
